@@ -122,6 +122,16 @@ Siga a especificação abaixo no arquivo `style.css` para criar uma interface vi
 | 🔴 **Radar de Ameaças** | `.btn-radar` | `#dc3545` | Vermelho (Alerta de perigo) |
 | 🟣 **Diário de Bordo** | `.btn-diario` | `#6f42c1` | Roxo (Relatório oficial) |
 
+###⚡ 6. Efeito de Interatividade (:hover)
+- Para dar sensação de que o botão é um interruptor de verdade:
+
+CSS
+```css
+.btn:hover {
+  opacity: 0.85; /* Suaviza a cor quando o mouse passa por cima */
+  transform: scale(1.02); /* (Opcional) Aumenta levemente o botão ao passar o mouse */
+}
+```
 ---
 
 ## 📥 Guia de Entrega
