@@ -1,6 +1,6 @@
 # 🛸 Missão de Desenvolvimento: Painel de Controle da Nave "Code-1"
 
-> **Agência Espacial:** SENAI Space Program  
+> **Agência Espacial:** Space Program  
 > **Ano:** 2088  
 > **Nível:** Introdução a Eventos, Funções e Estruturas Condicionais em JavaScript  
 
